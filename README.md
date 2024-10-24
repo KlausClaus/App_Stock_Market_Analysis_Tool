@@ -6,3 +6,4 @@ gradle build
 2. gradle run --args="offline offline" 
 3. gradle run --args="online online" 
 4. gradle run --args="online offline" 
+
